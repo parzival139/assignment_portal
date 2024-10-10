@@ -1,0 +1,12 @@
+ 
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment variable files
+.env
+
+# Ignore log files
+*.log
+
+# Ignore other specific files or folders
+Thumbs.db  # Windows specific
